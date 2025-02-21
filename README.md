@@ -1,4 +1,4 @@
-Tracking App
+### **Tracking App**
 
 Overview
 
@@ -34,7 +34,7 @@ Installation
 
 Clone the repository:
 
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/marwanhamdy1/google_map_tracking_example/tree/main/lib)
 
 Navigate to the project directory:
 
